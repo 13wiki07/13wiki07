@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @13wiki07
 - 👀 I’m interested in game programming
-- 🌱 I’m currently learning JavaScript, HTML and CSS, Java
+- 🌱 I’m currently learning Java and C++
 - 💗 I'm from Poland
 
 <!---
