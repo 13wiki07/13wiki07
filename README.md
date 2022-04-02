@@ -4,13 +4,13 @@
 
 <!-- some info -->
 - 🎳 I’m currently working on some small games
-- 🌱 I’m currently learning **Java** and **C++**
+- 🌱 I’m currently learning **Angular**, **TypeScript** and **C++**
 - 💞 I love learning new things
 - 📖 I want to learn **Unreal Engine** or **Unity**
 - ⚡ Favourite code line *`console.log()`*
 
 ### 💻 Languages and Tools
-JavaScript / Html + Css / SQL / Php / VS Code
+JavaScript / Html + Css / SQL / Php /Java / C# / VS Code / VS
 
 <!-- contact -->
 ### ✨ Find me on
