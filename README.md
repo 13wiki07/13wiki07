@@ -10,7 +10,7 @@
 - ⚡ Favourite code line *`console.log()`*
 
 ### 💻 Languages and Tools
-JavaScript / Html + Css / SQL / Php /Java / C# (WinForms and WPF) / VS Code / VS / AndroidStudio
+JavaScript / Html + Css / SQL / Php /Java / C# (WinForms and WPF) / VS Code / VS / AndroidStudio / Angular + TypeScript
 
 <!-- contact -->
 ### ✨ Find me on
