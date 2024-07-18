@@ -4,13 +4,20 @@
 
 <!-- some info -->
 - 🎳 I’m currently working on some small games
-- 🌱 I’m currently learning **C#**, **Java** and **Angular**
+- 🌱 I’m currently learning **C#**, **Xamarin** and **Cross Platform**
 - 💞 I love learning new things
 - 📖 I want to learn **Unreal Engine** or **Unity**
 - ⚡ Favourite code line *`console.log()`*
 
 ### 💻 Languages and Tools
-JavaScript / Html + Css / SQL / Php /Java / C# (WinForms and WPF) / VS Code / VS / AndroidStudio / Angular + TypeScript
+#### 🧡 Good
+   C# (WPF) • VS Code • VS
+
+#### 💛 Beginner
+   JavaScript • Html + Css • SQL • Java • C# (WinForms) • AndroidStudio • Angular + TypeScript
+   
+#### 💙 Current learning
+   Xamarin • Cross Platform
 
 <!-- contact -->
 ### ✨ Find me on
