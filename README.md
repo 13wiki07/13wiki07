@@ -17,7 +17,7 @@
    JavaScript • Html + Css • SQL • Java • C# (WinForms) • AndroidStudio • Angular + TypeScript
    
 #### 💙 Current learning
-   Xamarin • Cross Platform
+   Maui • Cross Platform
 
 <!-- contact -->
 ### ✨ Find me on
