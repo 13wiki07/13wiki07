@@ -3,7 +3,7 @@
 *“The most damaging phrase in the language is.. it's always been done this way”* - Grace Hopper
 
 <!-- some info -->
-- 🎳 I’m currently working on some small games
+- 🎳 I’m currently working on some small apps and games
 - 🌱 I’m currently learning **C#**, **Xamarin** and **Cross Platform**
 - 💞 I love learning new things
 - 📖 I want to learn **Unreal Engine** or **Unity**
