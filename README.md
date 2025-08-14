@@ -1,23 +1,20 @@
 # 👋 Hi, I’m Wiktoria
-
+### I'm a student at University of Silesia.
 *“The most damaging phrase in the language is.. it's always been done this way”* - Grace Hopper
 
 <!-- some info -->
-- 🎳 I’m currently working on some small apps and games
-- 🌱 I’m currently learning **C#**, **Xamarin** and **Cross Platform**
-- 💞 I love learning new things
-- 📖 I want to learn **Unreal Engine** or **Unity**
-- ⚡ Favourite code line *`console.log()`*
+- 🌱 I’m currently learning **C#**, **Flutter** and **Dart**
+- 💞 I'm planning to learn **Unreal Engine**
 
 ### 💻 Languages and Tools
 #### 🧡 Good
    C# (WPF) • VS Code • VS
 
 #### 💛 Beginner
-   JavaScript • Html + Css • SQL • Java • C# (WinForms) • AndroidStudio • Angular + TypeScript
+   JavaScript • Html + Css • SQL • Java • C# (WinForms) • AndroidStudio • Angular + TypeScript • Unity
    
 #### 💙 Current learning
-   Maui • Cross Platform
+   Maui • Cross Platform • Flutter & Dart • Unreal Engine
 
 <!-- contact -->
 ### ✨ Find me on
