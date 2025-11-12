@@ -3,7 +3,7 @@
 *“The most damaging phrase in the language is.. it's always been done this way”* - Grace Hopper
 
 <!-- some info -->
-- 🌱 I’m currently learning **C#**, **Flutter** and **Dart**
+- 🌱 I’m currently learning **C#**, **Flutter** & **Dart**, **Avalonia UI**, **Unity**
 - 💞 I'm planning to learn **Unreal Engine**
 
 ### 💻 Languages and Tools
@@ -11,15 +11,11 @@
    C# (WPF) • VS Code • VS
 
 #### 💛 Beginner
-   JavaScript • Html + Css • SQL • Java • C# (WinForms) • AndroidStudio • Angular + TypeScript • Unity
-   
-#### 💙 Current learning
-   Maui • Cross Platform • Flutter & Dart • Unreal Engine
+   JavaScript • Html + Css • SQL • Java • C# (WinForms) • AndroidStudio • Angular + TypeScript • Unity • Maui
 
 <!-- contact -->
 ### ✨ Find me on
 [![Discord](https://img.shields.io/badge/-Discord-CCA8E9?style=flat&labelColor=CCA8E9&logo=discord&logoColor=grey)](https://discordapp.com/users/521272310536208385)
-[![GitHub](https://img.shields.io/badge/-GitHub-C3BEF0?style=flat&labelColor=C3BEF0&logo=github&logoColor=grey)](https://github.com/13wiki07)
 
 <!-- more section -->
 <details>
